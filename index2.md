@@ -6,10 +6,6 @@ layout: index
 
 This is a simple test
 
-[Link](index2.html)
-
-![Image](./images/a.png)
-
 - Test 1
 - Test 2
 - Test 3
