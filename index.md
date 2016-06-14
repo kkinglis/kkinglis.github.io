@@ -6,6 +6,7 @@ layout: index
 
 This is a simple test
 
+![Image](./images/a.png)
 - Test 1
 - Test 2
 - Test 3
