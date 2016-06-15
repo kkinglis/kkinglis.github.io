@@ -7,7 +7,15 @@ layout: index
 ### Test
 
 This is a simple test
+
 Testesttestest
+
+Test header
+======
+
+# H1
+## H2 
+### H3
 
 [Link](index2.html)
 
