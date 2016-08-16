@@ -13,7 +13,7 @@ I am a half British half Japanese person, fluent in both English and Japanese la
 
 ## Professional Experience
 
-***October 2014 - Present**: PhD Student at the University of Liverpool, UK.  
+**October 2014 - Present**: PhD Student at the University of Liverpool, UK.  
 PhD Project: Investigation of defect chemistry and Li ion dynamics of new fast Li ion conductors through the use of solid-state NMR spectroscopy.  
 Supervisors: Prof. Matthew J. Rosseinsky and Dr. Frédéric Blanc
 
