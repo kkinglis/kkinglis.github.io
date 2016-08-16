@@ -13,4 +13,4 @@ I play target archery frequently at the University of Liverpool Archery Club.
 
 I enjoy going on walks around the countryside.
 
-![Image](.images/ullswater.jpg)
+![Image](./images/ullswater.jpg)
