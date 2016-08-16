@@ -5,7 +5,7 @@ layout: index
 
 ![Image](./images/profile.jpg)
 
-###**Kenneth Kazuya Inglis**
+###Kenneth Kazuya Inglis
 
 I am a half British half Japanese person, fluent in both English and Japanese languages.
 
@@ -22,5 +22,7 @@ Supervisor: Prof. John R. Varcoe [Link](http://www.surrey.ac.uk/chemistry/people
 ## Teaching Experience
 
 **CHEM245** Preparative Chemistry: Synthesis and Characterisation -- Inorganic labs, workshops and marking reports
-**CHEM246** Measurements in Chemistry -- Inorganic and NMR labs, NMR workshops and marking reports
+
+**CHEM246** Measurements in Chemistry -- Inorganic and NMR labs, NMR workshops and marking reports7
+
 **CHEM111** Introductory Inorganic Chemistry -- Workshop and marking assignments
