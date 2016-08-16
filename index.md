@@ -2,26 +2,16 @@
 layout: index
 ---
 
-# 1111
+# Home
 
 ### Test
 
-This is a simple test
+Welcome to the homepage for Kenneth Kazuya Inglis.
+I am currently a PhD student at the University of Liverpool working under the supervision of Dr. Frédéric Blanc and Prof. Matthew J. Rosseinsky.
 
-Testesttestest
+My PhD project focuses on fast solid state Li ion conducting materials.
 
-Test header
-======
-
-# H1
-
-## H2 
-
-### H3
-
-[Link](index2.html)
-
-![Image](./images/a.png)
+![Image](./images/groupbbq.jpg)
 
 - Test 1
 - Test 2
