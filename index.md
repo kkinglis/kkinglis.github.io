@@ -11,7 +11,7 @@ I am currently a PhD student at the University of Liverpool working under the su
 
 My PhD project focuses on fast solid state Li ion conducting materials.
 
-![Image](./images/groupbbq.jpg)
+![Image](./images/groupbbq.JPG)
 
 - Test 1
 - Test 2
