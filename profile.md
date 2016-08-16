@@ -5,7 +5,7 @@ layout: index
 
 ![Image](./images/profile.jpg)
 
-###Kenneth Kazuya Inglis
+### Kenneth Kazuya Inglis
 
 I am a half British half Japanese person, fluent in both English and Japanese languages.
 
