@@ -11,7 +11,7 @@ I am a half British half Japanese person, fluent in both English and Japanese la
 
 イギリスと日本のハーフです。英語と日本語どちらでも会話・メールできます。
 
-## Professional Experience
+## Professional Experience　学歴
 
 **October 2014 - Present**: PhD in Chemistry at the University of Liverpool, UK.  
 PhD Project: Investigation of Defect Chemistry and Li Ion Dynamics of new Fast Li Ion Conductors through 
@@ -24,7 +24,7 @@ Masters Project: Rotating Disk Electrode study of the Oxygen Reduction Reaction 
 aqueous Potassium Hydroxide solution containing cationic organic molecules.  
 Supervisor: Prof. John R. Varcoe
 
-## Teaching Experience
+## Teaching Experience　教歴
 
 **CHEM356** 3rd year project student -- supervision and assistance in acquiring, processing and interpreting data
 
@@ -33,3 +33,7 @@ Supervisor: Prof. John R. Varcoe
 **CHEM246** Measurements in Chemistry -- Inorganic and NMR labs, NMR workshops and marking reports
 
 **CHEM111** Introductory Inorganic Chemistry -- Workshop and marking assignments
+
+## Honours and Awards
+
+*850 MHz Bruker Travel Fund 
