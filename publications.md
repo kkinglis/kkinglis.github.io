@@ -5,9 +5,13 @@ layout: index
 
 ## Publications
 
-2\. **K. K. Inglis**, J. P. Corley, P. Florian, J. Cabana, R. D. Bayliss, F. Blanc "Structure and Sodium Ion Dynamics in Sodium Strontium Silicate Investigated by Multinuclear Solid-State NMR" *Chem. Mater.*, **2016**, *11*, 3850 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00941) 
+[2\] **K. K. Inglis**, J. P. Corley, P. Florian, J. Cabana, R. D. Bayliss, F. Blanc 
+"Structure and Sodium Ion Dynamics in Sodium Strontium Silicate Investigated by Multinuclear Solid-State NMR" 
+*Chem. Mater.*, **2016**, *11*, 3850 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00941) 
 
-1\. A. L. Ong, **K. K. Inglis**, D. K. Whelligan, S. Murphy, J. R. Varcoe "Effect of cationic molecules on the oxygen reduction reaction on fuel cell grade Pt/C (20 wt%) catalyst in potassium hydroxide (aq, 1 mol dm<sup>-1</sup>)." *Phys. Chem. Chem. Phys.*, **2015**, *17*, 12135 [Link](http://pubs.rsc.org/en/content/articlehtml/2015/cp/c4cp04973j) 
+[1\] A. L. Ong, **K. K. Inglis**, D. K. Whelligan, S. Murphy, J. R. Varcoe "Effect of cationic molecules on 
+the oxygen reduction reaction on fuel cell grade Pt/C (20 wt%) catalyst in potassium hydroxide 
+(aq, 1 mol dm<sup>-1</sup>)." *Phys. Chem. Chem. Phys.*, **2015**, *17*, 12135 [Link](http://pubs.rsc.org/en/content/articlehtml/2015/cp/c4cp04973j) 
 
 ## Presentations
 

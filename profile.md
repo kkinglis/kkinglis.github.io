@@ -26,7 +26,7 @@ Supervisor: Prof. John R. Varcoe [Link](http://www.surrey.ac.uk/chemistry/people
 
 ## Teaching Experience
 
-**CHEM356** 3rd year project student - supervision and assistance in acquiring, processing and interpreting data
+**CHEM356** 3rd year project student -- supervision and assistance in acquiring, processing and interpreting data
 
 **CHEM245** Preparative Chemistry: Synthesis and Characterisation -- Inorganic labs, workshops and marking reports
 
