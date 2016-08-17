@@ -3,7 +3,7 @@ layout: index
 ---
 # Publications and Presentations
 
-## Publications
+## Publications　論文
 
 [2\] **K. K. Inglis**, J. P. Corley, P. Florian, J. Cabana, R. D. Bayliss, F. Blanc 
 "Structure and Sodium Ion Dynamics in Sodium Strontium Silicate Investigated by Multinuclear Solid-State NMR" 
@@ -13,7 +13,7 @@ layout: index
 the oxygen reduction reaction on fuel cell grade Pt/C (20 wt%) catalyst in potassium hydroxide 
 (aq, 1 mol dm<sup>-1</sup>)." *Phys. Chem. Chem. Phys.*, **2015**, *17*, 12135 [Link](http://pubs.rsc.org/en/content/articlehtml/2015/cp/c4cp04973j) 
 
-## Presentations
+## Presentations　発表
 
 [5\] **Talk** at the BRSG AGM and Summer Meeting, 2 August **2016**, Johnson Matthey Technology Centre, Reading (UK): Structure and Sodium Dynamics Investigation of Sodium Strontium Silicate by Solid-State NMR.
 

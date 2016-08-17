@@ -3,14 +3,14 @@ layout: index
 ---
 # Hobbies
 
-## Archery
+## Archery・アーチェリー
 
-I play target archery frequently at the University of Liverpool Archery Club.
+I play target archery frequently at the University of Liverpool Archery Club.  
 
 ![Image](./images/archery.jpg)
 
-## Walks
+## Walks・ハイキング
 
-I enjoy going on walks around the countryside.
+I enjoy going on walks around the countryside.　　
 
 ![Image](./images/ullswater.jpg)
