@@ -14,14 +14,19 @@ I am a half British half Japanese person, fluent in both English and Japanese la
 ## Professional Experience
 
 **October 2014 - Present**: PhD Student at the University of Liverpool, UK.  
-PhD Project: Investigation of defect chemistry and Li ion dynamics of new fast Li ion conductors through the use of solid-state NMR spectroscopy.  
+PhD Project: Investigation of defect chemistry and Li ion dynamics of new fast Li ion conductors through 
+the use of solid-state NMR spectroscopy.  
 Supervisors: Prof. Matthew J. Rosseinsky and Dr. Frédéric Blanc
 
-**September 2010 - June 2014**: First Class Honours MChem in Chemistry at the University of Surrey, UK.  
-Masters Project: Rotating Disk Electrode study of the Oxygen Reduction Reaction on Pt/C catalyst in aqueous Potassium Hydroxkide solution containing cationic organic molecules.  
+**September 2010 - June 2014**: MChem in Chemistry at the University of Surrey, UK.  
+Graduated with a First Class Honours.  
+Masters Project: Rotating Disk Electrode study of the Oxygen Reduction Reaction on Pt/C catalyst in 
+aqueous Potassium Hydroxkide solution containing cationic organic molecules.  
 Supervisor: Prof. John R. Varcoe [Link](http://www.surrey.ac.uk/chemistry/people/john_varcoe/)
 
 ## Teaching Experience
+
+**CHEM356** 3rd year project student - supervision and assistance in acquiring, processing and interpreting data
 
 **CHEM245** Preparative Chemistry: Synthesis and Characterisation -- Inorganic labs, workshops and marking reports
 
