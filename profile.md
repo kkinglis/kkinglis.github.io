@@ -26,13 +26,15 @@ Supervisor: Prof. John R. Varcoe
 
 ## Teaching Experience　教歴
 
-**CHEM356** 3rd year project student -- supervision and assistance in acquiring, processing and interpreting data
+* **CHEM356** Supervision and assistance in acquiring, processing and interpreting data for 3rd year project student
 
-**CHEM245** Preparative Chemistry: Synthesis and Characterisation -- Inorganic labs, workshops and marking reports
+* **CHEM245** Preparative Chemistry: Synthesis and Characterisation -- Inorganic labs, workshops and marking reports
 
-**CHEM246** Measurements in Chemistry -- Inorganic and NMR labs, NMR workshops and marking reports
+* **CHEM246** Measurements in Chemistry -- Inorganic and NMR labs, NMR workshops and marking reports
 
-**CHEM111** Introductory Inorganic Chemistry -- Workshop and marking assignments
+* **CHEM111** Introductory Inorganic Chemistry -- Workshop and marking assignments
+
+* Supervision and assistance in acquiring and processing data for Summer Student
 
 ## Honours and Awards
 
