@@ -36,4 +36,4 @@ Supervisor: Prof. John R. Varcoe
 
 ## Honours and Awards
 
-*850 MHz Bruker Travel Fund 
+* 850 MHz Bruker Travel Fund (2016)
