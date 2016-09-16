@@ -14,3 +14,6 @@ ion dynamics of the probed nuclei through the observation of change in static NM
 spin-lattice relaxation rates. NMR is used in combination with diffraction techniques and DFT based 
 calculations to determine structure, and in combination with impedance spectroscopy and molecular dynamics 
 simulation for dynamics investigation.
+
+個体多核NMRと軸として全個体イオン電池用のイオン伝導体を研究しています。
+X線や中性子回折とDFT計算と共にストラクチャー、インピーダンスとMD法でダイナミクスを研究し、新しい伝統体の研究をしています。
