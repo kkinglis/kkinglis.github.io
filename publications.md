@@ -5,6 +5,10 @@ layout: index
 
 ## Publications　論文
 
+[3\] A. B. Santibáñez-Mendieta, C. Didier, **K. K. Inglis**, A. J. Corkett, M. J. Pitcher, M. Zanella, J. F. Shin, L. M. Daniels, A. Rakhmatullin, M. Li, M. S. Dyer, J. B. Claridge, F. Blanc, M. J. Rosseinsky
+"La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Ionic Diffusion in a Perovskite with Lithium on Both A- and B-Sites."
+*Chem. Mater.*, **2016**, **DOI**: 10.1021/acs.chemmater.6b03220 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b03220)
+
 [2\] **K. K. Inglis**, J. P. Corley, P. Florian, J. Cabana, R. D. Bayliss, F. Blanc 
 "Structure and Sodium Ion Dynamics in Sodium Strontium Silicate Investigated by Multinuclear Solid-State NMR" 
 *Chem. Mater.*, **2016**, *11*, 3850 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00941) 

@@ -39,3 +39,8 @@ Supervisor: Prof. John R. Varcoe
 ## Honours and Awards
 
 * 850 MHz Bruker Travel Fund (2016)
+
+
+## Other experiences その他
+
+* President/Secretary of University of Liverpool Japan Society 2016-2017
