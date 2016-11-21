@@ -3,6 +3,8 @@ layout: index
 ---
 # Links
 
+[Research Gate](https://www.researchgate.net/profile/Kenneth_Inglis)
+
 [University of Liverpool Chemistry](https://www.liverpool.ac.uk/chemistry/)
 
 [Blanc Group](http://pcwww.liv.ac.uk/~fblanc/WebsiteLiverpool/Home.html)
