@@ -7,15 +7,15 @@ layout: index
 
 [3\] A. B. Santibáñez-Mendieta, C. Didier, **K. K. Inglis**, A. J. Corkett, M. J. Pitcher, M. Zanella, J. F. Shin, L. M. Daniels, A. Rakhmatullin, M. Li, M. S. Dyer, J. B. Claridge, F. Blanc, M. J. Rosseinsky
 "La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Ionic Diffusion in a Perovskite with Lithium on Both A- and B-Sites."
-*Chem. Mater.*, **2016**, **DOI**: 10.1021/acs.chemmater.6b03220 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b03220)
+*Chem. Mater.*, **2016**, *28*, 7833-7851 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b03220)
 
 [2\] **K. K. Inglis**, J. P. Corley, P. Florian, J. Cabana, R. D. Bayliss, F. Blanc 
 "Structure and Sodium Ion Dynamics in Sodium Strontium Silicate Investigated by Multinuclear Solid-State NMR" 
-*Chem. Mater.*, **2016**, *11*, 3850 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00941) 
+*Chem. Mater.*, **2016**, *11*, 3850-3861 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00941) 
 
 [1\] A. L. Ong, **K. K. Inglis**, D. K. Whelligan, S. Murphy, J. R. Varcoe "Effect of cationic molecules on 
 the oxygen reduction reaction on fuel cell grade Pt/C (20 wt%) catalyst in potassium hydroxide 
-(aq, 1 mol dm<sup>-1</sup>)." *Phys. Chem. Chem. Phys.*, **2015**, *17*, 12135 [Link](http://pubs.rsc.org/en/content/articlehtml/2015/cp/c4cp04973j) 
+(aq, 1 mol dm<sup>-1</sup>)." *Phys. Chem. Chem. Phys.*, **2015**, *17*, 12135-12145 [Link](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CP/C4CP04973J) 
 
 ## Presentations　発表
 
