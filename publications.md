@@ -6,7 +6,7 @@ layout: index
 ## Publications　論文
 
 [4\] I. R. Colinas, **K. K. Inglis**, F. Blanc, S. Oliver
-Anion Exchange Dynamics in the Capture of Perchlorate by a Cationic Ag-Based MOF
+"Anion Exchange Dynamics in the Capture of Perchlorate by a Cationic Ag-Based MOF"
 *Dalton Trans.*, **2017**, DOI: 10.1039/C7DT00475C [Link](http://pubs.rsc.org/en/content/articlelanding/2014/dt/c7dt00475c#!divAbstract)
 
 [3\] A. B. Santibáñez-Mendieta, C. Didier, **K. K. Inglis**, A. J. Corkett, M. J. Pitcher, M. Zanella, J. F. Shin, L. M. Daniels, A. Rakhmatullin, M. Li, M. S. Dyer, J. B. Claridge, F. Blanc, M. J. Rosseinsky
