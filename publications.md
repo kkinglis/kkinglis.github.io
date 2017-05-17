@@ -5,7 +5,7 @@ layout: index
 
 ## Publications　論文
 
-[4\] I. R. Colinas, **K. K. Inglis**, F. Blanc, S. R. J. Oliver
+[4\] I. R. Colinas, **K. K. Inglis**, F. Blanc, S. Oliver
 "Anion Exchange Dynamics in the Capture of Perchlorate by a Cationic Ag-Based MOF"
 *Dalton Trans.*, **2017**, *46*, 5320-5325 [Link](http://pubs.rsc.org/en/content/articlelanding/2014/dt/c7dt00475c#!divAbstract)
 
