@@ -7,7 +7,7 @@ layout: index
 
 [4\] I. R. Colinas, **K. K. Inglis**, F. Blanc, S. R. J. Oliver
 "Anion Exchange Dynamics in the Capture of Perchlorate by a Cationic Ag-Based MOF"
-*Dalton Trans.*, **2017**, DOI: 10.1039/C7DT00475C [Link](http://pubs.rsc.org/en/content/articlelanding/2014/dt/c7dt00475c#!divAbstract)
+*Dalton Trans.*, **2017**, *46*, 5320-5325 [Link](http://pubs.rsc.org/en/content/articlelanding/2014/dt/c7dt00475c#!divAbstract)
 
 [3\] A. B. Santibáñez-Mendieta, C. Didier, **K. K. Inglis**, A. J. Corkett, M. J. Pitcher, M. Zanella, J. F. Shin, L. M. Daniels, A. Rakhmatullin, M. Li, M. S. Dyer, J. B. Claridge, F. Blanc, M. J. Rosseinsky
 "La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Ionic Diffusion in a Perovskite with Lithium on Both A- and B-Sites."
