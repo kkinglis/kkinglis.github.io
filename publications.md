@@ -5,13 +5,10 @@ layout: index
 
 ## Publications　論文
 
-<<<<<<< HEAD
 [4\] I. R. Colinas, **K. K. Inglis**, F. Blanc, S. R. J. Oliver
 "Anion Exchange Dynamics in the Capture of Perchlorate by a Cationic Ag-Based MOF"
 *Dalton Trans.*, **2017**, *46*, 5320-5325 [Link](http://pubs.rsc.org/en/content/articlelanding/2014/dt/c7dt00475c#!divAbstract)
 
-=======
->>>>>>> parent of 1227aa3... l
 [3\] A. B. Santibáñez-Mendieta, C. Didier, **K. K. Inglis**, A. J. Corkett, M. J. Pitcher, M. Zanella, J. F. Shin, L. M. Daniels, A. Rakhmatullin, M. Li, M. S. Dyer, J. B. Claridge, F. Blanc, M. J. Rosseinsky
 "La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Ionic Diffusion in a Perovskite with Lithium on Both A- and B-Sites."
 *Chem. Mater.*, **2016**, *28*, 7833-7851 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b03220)
