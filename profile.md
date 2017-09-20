@@ -43,4 +43,4 @@ Supervisor: Prof. John R. Varcoe
 
 ## Other experiences その他
 
-* President/Secretary of University of Liverpool Japan Society 2016-2017
+* President of University of Liverpool Japan Society 2016-2018
