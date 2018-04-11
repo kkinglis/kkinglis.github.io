@@ -23,18 +23,20 @@ the oxygen reduction reaction on fuel cell grade Pt/C (20 wt%) catalyst in potas
 
 ## Presentations　発表
 
-[8\] **Talk** at the SIRE Seminar, 20th February **2018**, Liverpool (UK): Solid-State NMR Investigation of La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Perovskite with Lithium on both A- and B-Sites
+[9\] **Talk** at the SIRE Seminar, 20th February **2018**, Liverpool (UK): Solid-State NMR Investigation of La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Perovskite with Lithium on both A- and B-Sites **（発表）**
 
-[7\] **Talk** at the Department of Chemistry Postgraduate Symposium, 12 January **2018**, Liverpool (UK): Solid-State NMR Investigation of La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Perovskite with Lithium on both A- and B-Sites
+[8\] **Talk** at the Department of Chemistry Postgraduate Symposium, 12 January **2018**, Liverpool (UK): Solid-State NMR Investigation of La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Perovskite with Lithium on both A- and B-Sites **（発表）**
 
-[6\] **Poster** at 13th International Conference on Materials Chemistry (MC13), 10-13 July **2017**, Liverpool (UK): Solid-State NMR Investigation of La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Perovskite with Lithium on both A- and B-Sites
+[7\] **Poster** at 13th International Conference on Materials Chemistry (MC13), 10-13 July **2017**, Liverpool (UK): Solid-State NMR Investigation of La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Perovskite with Lithium on both A- and B-Sites **（ポスター）**
 
-[5\] **Talk** at the BRSG AGM and Summer Meeting, 2 August **2016**, Johnson Matthey Technology Centre, Reading (UK): Structure and Sodium Dynamics Investigation of Sodium Strontium Silicate by Solid-State NMR.
+[6\] **Poster** at NMR Discussion Group Postgraduate meeting, 22 June **2017**, University of Strathclyde, Glasgow (UK): Solid-State NMR Investigation of La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Perovskite with Lithium on both A- and B-Sites **（ポスター）**
 
-[4\] **Talk** at the Rocky Mountain Conference on Magnetic Resonance: Solid-State NMR Symposium, 17-21 July **2016**, Breckenridge, CO (USA): Structural and Dynamics Investigation of new Fast Li Ion Conductors using Solid-State NMR Spectroscopy.
+[5\] **Talk** at the BRSG AGM and Summer Meeting, 2 August **2016**, Johnson Matthey Technology Centre, Reading (UK): Structure and Sodium Dynamics Investigation of Sodium Strontium Silicate by Solid-State NMR. **（発表）**
 
-[3\] **Talk** at the STFC Batteries Annual Meeting, 14-15 July **2016**, The Cosener's House, Abingdon (UK): Structure and Sodium Dynamics Investigation of Sodium Strontium Silicate by Solid-State NMR.
+[4\] **Talk** at the Rocky Mountain Conference on Magnetic Resonance: Solid-State NMR Symposium, 17-21 July **2016**, Breckenridge, CO (USA): Structural and Dynamics Investigation of new Fast Li Ion Conductors using Solid-State NMR Spectroscopy. **（発表）**
 
-[2\] **Talk** at the NMR Discussion Group Postgraduate meeting, 23 June **2016**, University of Oxford (UK): Structure and Sodium Dynamics Investigation of Sodium Strontium Silicate by Solid-State NMR.
+[3\] **Talk** at the STFC Batteries Annual Meeting, 14-15 July **2016**, The Cosener's House, Abingdon (UK): Structure and Sodium Dynamics Investigation of Sodium Strontium Silicate by Solid-State NMR. **（発表）**
 
-[1\] **Talk** at the UK 850 MHz solid-state NMR facility annual symposium 2016, 7 April **2016**, University of Warwick (UK): Structural and Dynamics Investigation of new Fast Li Ion Conductors using Solid-State NMR Spectroscopy.
+[2\] **Talk** at the NMR Discussion Group Postgraduate meeting, 23 June **2016**, University of Oxford (UK): Structure and Sodium Dynamics Investigation of Sodium Strontium Silicate by Solid-State NMR. **（発表）**
+
+[1\] **Talk** at the UK 850 MHz solid-state NMR facility annual symposium 2016, 7 April **2016**, University of Warwick (UK): Structural and Dynamics Investigation of new Fast Li Ion Conductors using Solid-State NMR Spectroscopy. **（発表）**
