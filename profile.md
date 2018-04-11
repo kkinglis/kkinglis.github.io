@@ -3,7 +3,7 @@ layout: index
 ---
 # Profile
 
-![Image](./images/profile.jpg)
+![Image](./images/rirekisho.png)
 
 ### Kenneth Kazuya Inglis
 
@@ -25,6 +25,8 @@ aqueous Potassium Hydroxide solution containing cationic organic molecules.
 Supervisor: Prof. John R. Varcoe
 
 ## Teaching Experience　教歴
+
+* Supervision of **MSc in Chemistry** student in specialised simulation program.
 
 * **CHEM356** Supervision and assistance in acquiring, processing and interpreting data for 3rd year project student.
 
