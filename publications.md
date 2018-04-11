@@ -23,6 +23,10 @@ the oxygen reduction reaction on fuel cell grade Pt/C (20 wt%) catalyst in potas
 
 ## Presentations　発表
 
+[8\] **Talk** at the SIRE Seminar, 20th February **2018**, Liverpool (UK): Solid-State NMR Investigation of La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Perovskite with Lithium on both A- and B-Sites
+
+[7\] **Talk** at the Department of Chemistry Postgraduate Symposium, 12 January **2018**, Liverpool (UK): Solid-State NMR Investigation of La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Perovskite with Lithium on both A- and B-Sites
+
 [6\] **Poster** at 13th International Conference on Materials Chemistry (MC13), 10-13 July **2017**, Liverpool (UK): Solid-State NMR Investigation of La<sub>3</sub>Li<sub>3</sub>W<sub>2</sub>O<sub>12</sub>: Perovskite with Lithium on both A- and B-Sites
 
 [5\] **Talk** at the BRSG AGM and Summer Meeting, 2 August **2016**, Johnson Matthey Technology Centre, Reading (UK): Structure and Sodium Dynamics Investigation of Sodium Strontium Silicate by Solid-State NMR.
