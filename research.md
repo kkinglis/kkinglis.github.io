@@ -19,4 +19,4 @@ simulation for dynamics investigation.
 X線や中性子回折とDFT計算と共にストラクチャー、インピーダンス法とMD法でダイナミクスを研究し、新しい伝統体の研究をしています。
 
 
-!Image('/images/workflow.png')
+![Image](./images/workflow.png)
