@@ -5,6 +5,10 @@ layout: index
 
 ## Publications　論文
 
+[5\] B. T. Leube, **K. K. Inglis**, E. Carrington, P. M. Sharp, J. F. Shin, A. R. Neale, T. D. Manning, M. J. Pitcher, L. J. Hardwick, M. S. Dyer, F. Blanc, J. B. Claridge, and M. J. Rosseinsky
+"Lithium transport in Li4.4<i>M</i>0.4<i>M’</i>0.6S4 (<i>M</i>= Al3+, Ga3+ and <i>M’</i>= Ge4+, Sn4+): Combined crystallographic, conductivity, solid state NMR and computational studies"
+*Chem. Mater.*, **2018** [Link](https://pubs.acs.org/doi/10.1021/acs.chemmater.8b03175)
+
 [4\] I. R. Colinas, **K. K. Inglis**, F. Blanc, S. R. J. Oliver
 "Anion Exchange Dynamics in the Capture of Perchlorate by a Cationic Ag-Based MOF"
 *Dalton Trans.*, **2017**, *46*, 5320-5325 [Link](http://pubs.rsc.org/en/content/articlelanding/2014/dt/c7dt00475c#!divAbstract)
@@ -17,9 +21,11 @@ layout: index
 "Structure and Sodium Ion Dynamics in Sodium Strontium Silicate Investigated by Multinuclear Solid-State NMR" 
 *Chem. Mater.*, **2016**, *11*, 3850-3861 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00941) 
 
-[1\] A. L. Ong, **K. K. Inglis**, D. K. Whelligan, S. Murphy, J. R. Varcoe "Effect of cationic molecules on 
+[1\] A. L. Ong, **K. K. Inglis**, D. K. Whelligan, S. Murphy, J. R. Varcoe 
+"Effect of cationic molecules on 
 the oxygen reduction reaction on fuel cell grade Pt/C (20 wt%) catalyst in potassium hydroxide 
-(aq, 1 mol dm<sup>-1</sup>)." *Phys. Chem. Chem. Phys.*, **2015**, *17*, 12135-12145 [Link](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CP/C4CP04973J) 
+(aq, 1 mol dm<sup>-1</sup>)." 
+*Phys. Chem. Chem. Phys.*, **2015**, *17*, 12135-12145 [Link](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CP/C4CP04973J) 
 
 ## Presentations　発表
 
