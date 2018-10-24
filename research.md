@@ -15,8 +15,8 @@ spin-lattice relaxation rates. NMR is used in combination with diffraction techn
 calculations to determine structure, and in combination with impedance spectroscopy and molecular dynamics 
 simulation for dynamics investigation.
 
-固体多核NMRと軸として全固体イオン電池用のイオン伝導体を研究しています。
-X線や中性子回折とDFT計算と共にストラクチャー、インピーダンス法とMD法でダイナミクスを研究し、新しい伝統体の研究をしています。
+固体多核NMRと軸として全固体イオン電池用のイオン電解質を研究しています。
+X線や中性子回折とDFT計算と共にストラクチャー、インピーダンス法とMD法でダイナミクスを研究し、新しい電解質の研究をしています。
 
 
 ![Image](./images/workflow.png)
