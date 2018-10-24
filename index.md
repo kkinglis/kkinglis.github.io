@@ -14,6 +14,6 @@ My PhD project focuses on structure and dynamics investigation of fast solid sta
 materials using Solid State NMR.　　
 
 現在リバプール大学でRosseinsky教授とBlanc博士の元で博士号を勉強している、インガルス　ケネス　和哉です。
-次世代電池用の固体伝導体を核磁気共鳴(NMR)を使って研究しています。
+次世代電池用の固体電解質を核磁気共鳴(NMR)を使って研究しています。
 
 ![Image](./images/group.png)
