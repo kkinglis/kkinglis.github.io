@@ -7,11 +7,11 @@ layout: index
 
 [6\] B. Dong, J. Yan, B. Walkley, **K. K. Inglis**, F. Blanc, S. Hull, A. R. West
 "Synthesis and characterisation of the new oxyfluoride Li<sup>+</sup> ion conductor, Li<sub>5</sub>SiO<sub>4</sub>F"
-*Solid State Ionics*, **2018** *Accepted*
+*Solid State Ionics*, **2018**, *327*, 64-70 [Link](https://www.sciencedirect.com/science/article/pii/S0167273818305897)
 
 [5\] B. T. Leube, **K. K. Inglis**, E. Carrington, P. M. Sharp, J. F. Shin, A. R. Neale, T. D. Manning, M. J. Pitcher, L. J. Hardwick, M. S. Dyer, F. Blanc, J. B. Claridge, and M. J. Rosseinsky
 "Lithium transport in Li<sub>4.4</sub><i>M</i><sub>0.4</sub><i>M’</i><sub>0.6</sub>S<sub>4</sub> (<i>M</i>= Al<sup>3+</sup>, Ga<sup>3+</sup> and <i>M’</i>= Ge<sup>4+</sup>, Sn<sup>4+</sup>): Combined crystallographic, conductivity, solid state NMR and computational studies"
-*Chem. Mater.*, **2018**, *30*, 7183-7200 [Link](https://pubs.acs.org/doi/10.1021/acs.chemmater.8b03175)
+*Chem. Mater.*, **2018**, *30*, 7183-7200 [Link](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b03175)
 
 [4\] I. R. Colinas, **K. K. Inglis**, F. Blanc, S. R. J. Oliver
 "Anion Exchange Dynamics in the Capture of Perchlorate by a Cationic Ag-Based MOF"
